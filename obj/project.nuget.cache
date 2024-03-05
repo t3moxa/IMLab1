@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpKIdghldR2WLUo0n+8Uaxixm3gxH1WeGLrZ86Xu4yO0MhJnB05/NRG32om/FCRgYuIeWGnd4/8/fIx59oEN7w==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\3IM\\Lab1IM\\Lab1IM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TIMDIM\\.nuget\\packages\\winforms.datavisualization\\1.9.2\\winforms.datavisualization.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
